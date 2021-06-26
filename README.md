@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ben Nguyen
+- 👋 Hi, I’m Hung Viet
 - 👀 I’m interested in Javascript
 - 🌱 I’m currently learning Javascript
 - 📫 How to reach me ...
